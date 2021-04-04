@@ -9,5 +9,11 @@ namespace ConsoleGit
             Console.WriteLine("Hello World!");
             //made comments on GitHub
         }
+        
+        int add(int a ,  int b)
+        {
+            return a+b;
+        }
+            
     }
 }
