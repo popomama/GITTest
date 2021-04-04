@@ -28,5 +28,10 @@ namespace ConsoleGit
                 result *= a;
             return result;
         }
+        
+        int sauare(int a )
+        {
+            return a*a;
+        }
     }
 }
