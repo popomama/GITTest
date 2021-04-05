@@ -34,6 +34,13 @@ namespace ConsoleGit
             return a*a;
         }
 
+
+        //into stash
+        int triple(int a )
+            {
+            return a*a*a;
+        }
+
         int quadruple(int a)
         {
             return a*a*a*a;
