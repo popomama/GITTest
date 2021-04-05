@@ -33,5 +33,10 @@ namespace ConsoleGit
         {
             return a*a;
         }
+
+        int quadruple(int a)
+        {
+            return a*a*a*a;
+        }
     }
 }
